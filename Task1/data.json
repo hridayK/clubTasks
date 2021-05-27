@@ -1,0 +1,34 @@
+[
+  {
+    "question": "q1",
+    "option1": "a)",
+    "option2": "b)",
+    "option3": "c)",
+    "option4": "d)",
+    "answer": "d"
+  },
+  {
+    "question": "q2",
+    "option1": "a)",
+    "option2": "b)",
+    "option3": "c)",
+    "option4": "d)",
+    "answer": "b"
+  },
+  {
+    "question": "q3",
+    "option1": "a)",
+    "option2": "b)",
+    "option3": "c)",
+    "option4": "d)",
+    "answer": "ac"
+  },
+  {
+    "question": "q4",
+    "option1": "a)",
+    "option2": "b)",
+    "option3": "c)",
+    "option4": "d)",
+    "answer": "bc"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is the solo-developer of Stardew Valley?",
+    "option1": "a) Eric Barone",
+    "option2": "b) Toby Fox",
+    "option3": "c) Jonathon Blow",
+    "option4": "d) Hidoe Kojima",
+    "answer": "a"
+  },
+  {
+    "question": "Which city has the highest number of electric two wheelers per capita",
+    "option1": "a) Bangalore",
+    "option2": "b) Beijing",
+    "option3": "c) Bangok",
+    "option4": "d) Jakarta",
+    "answer": "a"
+  },
+  {
+    "question": "Asia's largest naval academy is situated at?",
+    "option1": "a) Shenzen",
+    "option2": "b) Karachi",
+    "option3": "c) Ezhimala",
+    "option4": "d) Beijing",
+    "answer": "c"
+  },
+  {
+    "question": "Who is known as father of computation and cryptography?",
+    "option1": "a) John Mcarthy",
+    "option2": "b) Alan Turing",
+    "option3": "c) Ada Lovelace",
+    "option4": "d) Dimitri Navanly",
+    "answer": "b"
+  },
+  {
+    "question": "The first video game was played on a ______",
+    "option1": "a) Cathode Ray Oscilloscope",
+    "option2": "b) Radar Screen",
+    "option3": "c) Altair 8800",
+    "option4": "d) Atari console",
+    "answer": "a"
+  }
+]

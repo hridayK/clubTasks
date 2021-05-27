@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the capital of Mongolia?",
+    "option1": "a) Vladivostok",
+    "option2": "b) Sampang",
+    "option3": "c) Ulan Bator",
+    "option4": "d) Bishkek",
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "option1": "a) Sydney",
+    "option2": "b) Melbourne",
+    "option3": "c) Canberra",
+    "option4": "d) Perth",
+    "answer": "c"
+  },
+  {
+    "question": "What is the capital of Oman?",
+    "option1": "a) Muscat",
+    "option2": "b) Nur-Sultan",
+    "option3": "c) Baghdad",
+    "option4": "d) Damascus",
+    "answer": "a"
+  },
+  {
+    "question": "The Pamir knot has which of the following moutain range/ranges?",
+    "option1": "a) Al-Shabab",
+    "option2": "b) Hindu Kush",
+    "option3": "c) Yunan",
+    "option4": "d) Andes",
+    "answer": "b"
+  },
+  {
+    "question": "Which of these countries is France neighbours with?",
+    "option1": "a) Australia",
+    "option2": "b) Brazil",
+    "option3": "c) India",
+    "option4": "d) Laos",
+    "answer": "ab"
+  }
+]
