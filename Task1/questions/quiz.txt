@@ -1,4 +1,0 @@
-question number 1,a,b,c,d,a=
-question number 2,a,b,c,d,c=
-question number 3,a,b,c,d,b=
-question number 4,a,b,c,d,d
